@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(137,8): error C2371: 'Particle::velocity': redefinition; different basic types
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(131): message : see declaration of 'Particle::velocity'
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(358,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(395,9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(396,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(615,1): error C2143: syntax error: missing ';' before '}'
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(737,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(746,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(845,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data

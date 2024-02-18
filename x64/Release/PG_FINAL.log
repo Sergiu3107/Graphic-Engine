@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(243,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(410,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(447,9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(448,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(788,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(797,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(896,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects VS\PG_LAB\PG_FINAL\PG_FINAL\main.cpp(905,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 1845 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PG_FINAL.vcxproj -> D:\Projects VS\PG_LAB\PG_FINAL\x64\Release\PG_FINAL.exe
